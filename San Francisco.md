@@ -6,9 +6,8 @@ tags:
 description: 
 favourite: false
 created: 2024-11-21 - 03:12 am
-modified: 2024-12-09 - 12:34 pm
+modified: 2024-12-11 - 08:22 pm
 icon: 🌃
-schema: city
 sources: 
 country: "[[United States]]"
 region: 
